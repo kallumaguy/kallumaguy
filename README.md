@@ -1,5 +1,8 @@
 ### Hi there 👋
   - 🔭 I’m currently working on: Building a full-stack web app with React and Node.js
+  - 👨‍💻 I’ve worked with: JavaScript, Python, PHP.
+  - 👯 I’m looking to collaborate on: Open-source projects
+  - 🎮 In my free time, I enjoy: Gaming, photography, and experimenting with new tech
 
 <!--
 **kallumaguy/kallumaguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
