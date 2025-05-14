@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on: Building a full-stack MERN web app with<br>
+🔭 I’m currently working on: Building a full-stack MERN web app.<br>
 👨‍💻 I’ve worked with: JavaScript, React, Python, PHP.<br>
 👯 I’m looking to collaborate on: Open-source projects<br>
 🎮 In my free time, I enjoy: Gaming, photography, and experimenting with new tech
